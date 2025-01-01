@@ -200,13 +200,3 @@ For queries or feedback:
 - **Email**: brijeshpujari333@gmail.com
 
 ---
-
-### Updates in This Version 📝
-
-1. Detailed explanation of routes (`auth.route.js`, `user.route.js`, `explore.route.js`).
-2. Integration of the backend serving the frontend build.
-3. Comprehensive `Project Structure` reflecting all files.
-4. Enhanced deployment instructions for production builds.
-5. Explicit instructions for `.env` configuration.
-
-Let me know if you need further adjustments!
